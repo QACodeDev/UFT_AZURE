@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" name="UFTTestSuit" time="109.141" tests="2" errors="1" skipped="0" failures="1">
-   <testcase name="UFT_TC01_ViewProducts" class="UFT_TC01_ViewProducts.html" time="69.0" owner="Mohd Nazim" />
-    <testcase name="UFT_TC02_ViewProducts" class="UFT_TC02_ViewProducts.html" time="40.00" owner="Mohd Nazim">
-	 <error type="error_message" message="failure msg"/>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" timestamp="2020-08-17T15:01:15.00" name="UFTTestResults" time="109.141" tests="2" skipped="0" failures="1">
+   <testcase name="UFT_TC01_Scenario"  time="69.0" owner="Mohd Nazim" />
+    <testcase name="UFT_TC02_Scenario" time="40.00" owner="Mohd Nazim">
+	 <error type="error_message" message="failure msg to be displayed"/>
 	</testcase>
 </testsuite>
