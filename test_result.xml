@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="UFTTestSuit" time="109.141" tests="2" errors="1" skipped="0" failures="1">
-   <testcase name="UFT_TC01_ViewProducts" class="UFT_TC01_ViewProducts.html"time="69.0" owner="Mohd Nazim" />
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" name="UFTTestSuit" time="109.141" tests="2" errors="1" skipped="0" failures="1">
+   <testcase name="UFT_TC01_ViewProducts" class="UFT_TC01_ViewProducts.html" time="69.0" owner="Mohd Nazim" />
     <testcase name="UFT_TC02_ViewProducts" class="UFT_TC02_ViewProducts.html" time="40.00" owner="Mohd Nazim">
 	 <error type="error_message" message="failure msg"/>
 	</testcase>
