@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="71.141" tests="1" errors="0" skipped="0" failures="0">
-   <testcase name="UFT_TC01_ViewProducts" time="69.455"/>
-    <testcase name="UFT_TC02_ViewProducts" time="40.455"/>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="UFTTestSuit" time="109.141" tests="2" errors="1" skipped="0" failures="1">
+   <testcase name="UFT_TC01_ViewProducts" class="UFT_TC01_ViewProducts.html"time="69.0" owner="Mohd Nazim" />
+    <testcase name="UFT_TC02_ViewProducts" class="UFT_TC02_ViewProducts.html" time="40.00" owner="Mohd Nazim">
+	 <error type="error_message" message="failure msg"/>
+	</testcase>
 </testsuite>
